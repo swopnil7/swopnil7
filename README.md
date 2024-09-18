@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @swopnil7
+- 👀 I’m interested in Football, Table Tennis, Programming, Coding, Graphic Designing, etc.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on nothing for now, but soon :)
+- 📫 How to reach me-> Insta:[swopnil_v07](https://www.instagram.com/swopnil_v07/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Everything about me is boring lol..
+
+<!---
+swopnil7/swopnil7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
