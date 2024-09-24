@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swopnil7 aka Swopnil
-- 👀 I’m interested in Football(LOML), Table Tennis, Programming, Coding, Graphic Designing, etc.
+- 👀 I’m interested in Football(LOML), Table Tennis, Programming, Coding, Graphic Designing, and a bit of gaming obv..
 - 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on nothing for now, but soon :)
 - 📫 How to reach me-> IG: [swopnil_v07](https://www.instagram.com/swopnil_v07/)
