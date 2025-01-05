@@ -20,9 +20,9 @@ And let’s be real—you already know what this is. It’s the classic “about
 ---
 
 ## 🌐 Let's Connect!
-- **LinkedIn:** [Swopnil Adhikari](https://www.linkedin.com/in/swopnil-adhikari-7ba464329/)
-- **Instagram:** [swopnil_v07](https://www.instagram.com/swopnil_v07)  
-- **Pronouns:** He/Him  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swopnil_Adhikari-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swopnil-adhikari-7ba464329/)  
+[![Instagram](https://img.shields.io/badge/Instagram-swopnil_v07-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/swopnil_v07)  
+[![Twitter](https://img.shields.io/badge/Twitter-@swopnil07-blue?style=for-the-badge&logo=twitter)](https://twitter.com/swopnil07)  
 - 🎯 Always open for a chat, collaboration™, or just some good football banter.
 
 ---
