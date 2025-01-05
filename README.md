@@ -14,7 +14,7 @@ And let’s be real—you already know what this is. It’s the classic “about
 
 ## 💻 My Skills
 <div style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=python,swift,html,css,ps" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=python,swift,html,css,ps,pr" alt="skills" />
 </div>
 
 ---
