@@ -60,4 +60,4 @@ Here’s a little something for my football passion!
 
 ---
 
-**Thanks for stopping by! Feel free to star ⭐ any of my projects if you find them interesting! Cheers 🚀**
+**Thanks for reading (or, let’s be honest, or giving up halfway) the bio. Who even cares after all. Blah blah, you know the drill — see you around!**
