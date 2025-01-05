@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @swopnil7!
 
-<img align="right" src="https://media.giphy.com/media/k5m2Gwn83tHo08dNRg/giphy.gif?cid=ecf05e47onkb73x5qkqpt7jrh64rzzza16n5l1utqn7z9xya&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" />
+<img align="center" src="https://media.giphy.com/media/k5m2Gwn83tHo08dNRg/giphy.gif?cid=ecf05e47onkb73x5qkqpt7jrh64rzzza16n5l1utqn7z9xya&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350" height="250" />
 
 ## About Me  
 - 💻 Passionate about **Programming**, **Graphic Designing**, and most importantly, just figuring out **Life**.    
