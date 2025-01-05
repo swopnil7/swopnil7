@@ -30,7 +30,8 @@
 
 ## 📝 My Writing
 I occasionally dabble in writing. It’s one of my favorite ways to express myself.  
-> _“We don’t read and write poetry because it’s cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for.”_ John Keating, Dead Poets Society
+> _“We don’t read and write poetry because it’s cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for.”_
+- *John Keating, Dead Poets Society*
 
 ---
 
@@ -40,6 +41,7 @@ Here’s a little something for my football passion!
 <div align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFtdDk1bWY3OTJjdzZjd2ltc3Y3b29tZWY2NmNvMDkxdjY0Y2gzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hUj3cpEdENGGxVVPHB/giphy.gif" width="300" />
     <br>
+    <img src="https://media.giphy.com/media/cPffUXtDIulH3LRmgV/giphy.gif?cid=ecf05e47g1ot9f3tf44p0ml18kqc1mj4q8jxl3kcqm8s369j&ep=v1_gifs_search&rid=giphy.gif" width="300" />
     **Hala Madrid! 💛 | Blue is the Color 💙**
 </div>
 
