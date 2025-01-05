@@ -37,7 +37,7 @@ I occasionally dabble in writing. It’s one of my favorite ways to express myse
 Here’s a little something for my football passion!  
 
 <div align="center">
-    <img src="https://media.giphy.com/media/26xBukh2bRwuNAU6w/giphy.gif" width="300" />
+    <img src="[https://media.giphy.com/media/26xBukh2bRwuNAU6w/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFtdDk1bWY3OTJjdzZjd2ltc3Y3b29tZWY2NmNvMDkxdjY0Y2gzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hUj3cpEdENGGxVVPHB/giphy.gif)" width="300" />
     <br>
     **Football = Life 🥅⚽**
 </div>
