@@ -53,13 +53,6 @@ Here’s a little something for my football passion!
 
 ---
 
-## 📊 GitHub Contributions
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=swopnil7&theme=react-dark&hide_border=true" width="90%" />
-</div>
-
----
-
 ## 💬 Quote to Live By
 > _"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing."_  
 – *Pele*
