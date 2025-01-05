@@ -54,8 +54,8 @@ Here’s a little something for my football passion!
 ---
 
 ## 💬 Quote to Live By
-> _"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing."_  
-– *Pele*
+> _"Ask for forgiveness, not permission"_  
+– *Nancy, The Stranger Things*
 
 ---
 
