@@ -3,12 +3,12 @@
 <img align="right" src="https://media.giphy.com/media/k5m2Gwn83tHo08dNRg/giphy.gif?cid=ecf05e47onkb73x5qkqpt7jrh64rzzza16n5l1utqn7z9xya&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" />
 
 ## About Me  
-- 💻 Passionate about **Programming, Graphic Designing** and most importantly **Life**  
-- 🎮 Sometimes gaming, because why not?  
-- 🖋️ **Occasional writer** who loves expressing thoughts through words  
+- 💻 Passionate about **Programming, Graphic Designing** && most importantly, **Life**  
+- 🎮 Love myself a bit of gaming, because why not?  
+- 🖋️ **Occasional writer** who chose to write coz nobody listened :)  
 - 💡 Currently learning **Swift**
-- ⚽ **Football = LOML** | Proud fan of **Real Madrid** and **Chelsea** 💙  
-- 🏓 Table Tennis and Cricket enthusiast
+- ⚽ **Football = LOML <3** | Proud fan of **Real Madrid**🤍 and **Chelsea**💙  
+> Also pretty good at 🏓Table Tennis, 🤾‍♀️Handball, 🏸Badminton, 🏏Cricket, etc.
 - 🌟 **Fun Fact:** Everything about me is boring lol... (but you may still love it, who knows..)  
 
 ---
