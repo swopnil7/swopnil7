@@ -1,4 +1,5 @@
-# 👋 Hi, I’m @swopnil7!
+# 👋 Hi, I’m Swopnil!
+And let’s be real—you already know what this is. It’s the classic “about me” section. So, here’s everything you need to know about me (or maybe not, but I’m telling you anyway).
 
 ## About Me  
 - 💻 Passionate about **Programming**, **Graphic Designing**, and most importantly, just figuring out **Life**.    
