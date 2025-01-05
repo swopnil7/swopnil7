@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @swopnil7!
 
-<img align="right" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250" />
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFtdDk1bWY3OTJjdzZjd2ltc3Y3b29tZWY2NmNvMDkxdjY0Y2gzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hUj3cpEdENGGxVVPHB/giphy.gif" width="250" />
 
 ## About Me
-- ⚽ **Football = LOML**  
+- ⚽ **Football = LOML** | Proud fan of **Real Madrid** and **Chelsea** 💙  
 - 🏓 Table Tennis enthusiast  
 - 💻 Passionate about **Programming, Coding, and Graphic Designing**  
 - 🎮 Sometimes gaming, because why not?  
@@ -21,7 +21,8 @@
 ---
 
 ## 🌐 Let's Connect!
-- **Instagram:** [swopnil_v07](https://www.instagram.com/swopnil_v07)
+- **LinkedIn:** [Swopnil Adhikari](https://www.linkedin.com/in/swopnil-adhikari-7ba464329/)
+- **Instagram:** [swopnil_v07](https://www.instagram.com/swopnil_v07)  
 - **Pronouns:** He/Him  
 - 🎯 Always open for a chat, collaboration (soon™), or just some good football banter.
 
@@ -37,9 +38,9 @@ I occasionally dabble in writing. It’s one of my favorite ways to express myse
 Here’s a little something for my football passion!  
 
 <div align="center">
-    <img src="[https://media.giphy.com/media/26xBukh2bRwuNAU6w/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFtdDk1bWY3OTJjdzZjd2ltc3Y3b29tZWY2NmNvMDkxdjY0Y2gzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hUj3cpEdENGGxVVPHB/giphy.gif)" width="300" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFtdDk1bWY3OTJjdzZjd2ltc3Y3b29tZWY2NmNvMDkxdjY0Y2gzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hUj3cpEdENGGxVVPHB/giphy.gif" width="300" />
     <br>
-    **Football = Life 🥅⚽**
+    **Hala Madrid! 💛 | Blue is the Color 💙**
 </div>
 
 ---
