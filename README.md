@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @swopnil7!
 
-<img align="right" src="https://media.giphy.com/media/k5m2Gwn83tHo08dNRg/giphy.gif?cid=ecf05e47onkb73x5qkqpt7jrh64rzzza16n5l1utqn7z9xya&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" />
+<img align="right" src="https://media.giphy.com/media/k5m2Gwn83tHo08dNRg/giphy.gif?cid=ecf05e47onkb73x5qkqpt7jrh64rzzza16n5l1utqn7z9xya&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" />
 
 ## About Me  
 - 💻 Passionate about **Programming**, **Graphic Designing**, and most importantly, just figuring out **Life**.    
@@ -39,8 +39,8 @@ I occasionally dabble in writing. It’s one of my favorite ways to express myse
 Here’s a little something for my football passion!  
 
 <div align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFtdDk1bWY3OTJjdzZjd2ltc3Y3b29tZWY2NmNvMDkxdjY0Y2gzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hUj3cpEdENGGxVVPHB/giphy.gif" width="300" height="200" />
-    <img src="https://media.giphy.com/media/cPffUXtDIulH3LRmgV/giphy.gif?cid=ecf05e47g1ot9f3tf44p0ml18kqc1mj4q8jxl3kcqm8s369j&ep=v1_gifs_search&rid=giphy.gif" width="300" height="200" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFtdDk1bWY3OTJjdzZjd2ltc3Y3b29tZWY2NmNvMDkxdjY0Y2gzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hUj3cpEdENGGxVVPHB/giphy.gif" width="350" height="250" />
+    <img src="https://media.giphy.com/media/cPffUXtDIulH3LRmgV/giphy.gif?cid=ecf05e47g1ot9f3tf44p0ml18kqc1mj4q8jxl3kcqm8s369j&ep=v1_gifs_search&rid=giphy.gif" width="350" height="250" />
     <br>
     **Hala Madrid! 🤍 | Blue is the Color 💙**
 </div>
