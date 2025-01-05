@@ -3,13 +3,13 @@
 <img align="right" src="https://media.giphy.com/media/k5m2Gwn83tHo08dNRg/giphy.gif?cid=ecf05e47onkb73x5qkqpt7jrh64rzzza16n5l1utqn7z9xya&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" />
 
 ## About Me  
-- 💻 Passionate about **Programming, Graphic Designing** && most importantly, **Life**  
-- 🎮 Love myself a bit of gaming, because why not?  
-- 🖋️ **Occasional writer** who chose to write coz nobody listened :)  
+- 💻 Passionate about **Programming**, **Graphic Designing**, and most importantly, just figuring out **Life**.    
 - 💡 Currently learning **Swift**
+- 🎮 A casual gamer because, well, life needs a bit of fun.
 - ⚽ **Football = LOML <3** | Proud fan of **Real Madrid**🤍 and **Chelsea**💙  
-> Also pretty good at 🏓Table Tennis, 🤾‍♀️Handball, 🏸Badminton, 🏏Cricket, etc.
-- 🌟 **Fun Fact:** Everything about me is boring lol... (but you may still love it, who knows..)  
+- 🖖 Also love myself a bit of other sports, pretty good at 🏓Table Tennis, 🤾‍♀️Handball, 🏸Badminton, 🏏Cricket, etc.
+- 🖋️ Part-time writer (mostly because no one listens, so here we are 😅)
+- 🌟 **Fun Fact:** Everything about me is boring lol... (but you may still like it, who knows..)  
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 📝 My Writing
+## 📝 Writing
 I occasionally dabble in writing. It’s one of my favorite ways to express myself.  
 > _“We don’t read and write poetry because it’s cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for.”_
 - *John Keating, Dead Poets Society*
@@ -42,7 +42,7 @@ Here’s a little something for my football passion!
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFtdDk1bWY3OTJjdzZjd2ltc3Y3b29tZWY2NmNvMDkxdjY0Y2gzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hUj3cpEdENGGxVVPHB/giphy.gif" width="300" height="200" />
     <img src="https://media.giphy.com/media/cPffUXtDIulH3LRmgV/giphy.gif?cid=ecf05e47g1ot9f3tf44p0ml18kqc1mj4q8jxl3kcqm8s369j&ep=v1_gifs_search&rid=giphy.gif" width="300" height="200" />
     <br>
-    **Hala Madrid! 💛 | Blue is the Color 💙**
+    **Hala Madrid! 🤍 | Blue is the Color 💙**
 </div>
 
 ---
