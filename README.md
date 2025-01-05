@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @swopnil7!
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFtdDk1bWY3OTJjdzZjd2ltc3Y3b29tZWY2NmNvMDkxdjY0Y2gzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hUj3cpEdENGGxVVPHB/giphy.gif" width="250" />
+<img align="right" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250" />
 
 ## About Me
 - ⚽ **Football = LOML** | Proud fan of **Real Madrid** and **Chelsea** 💙  
