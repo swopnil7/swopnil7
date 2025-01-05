@@ -2,14 +2,14 @@
 
 <img align="right" src="https://media.giphy.com/media/k5m2Gwn83tHo08dNRg/giphy.gif?cid=ecf05e47onkb73x5qkqpt7jrh64rzzza16n5l1utqn7z9xya&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" />
 
-## About Me
-- ⚽ **Football = LOML** | Proud fan of **Real Madrid** and **Chelsea** 💙  
-- 🏓 Table Tennis enthusiast  
-- 💻 Passionate about **Programming, Coding, and Graphic Designing**  
+## About Me  
+- 💻 Passionate about **Programming, Graphic Designing** and most importantly **Life**  
 - 🎮 Sometimes gaming, because why not?  
 - 🖋️ **Occasional writer** who loves expressing thoughts through words  
-- 💡 Currently learning **Swift**  
-- 🌟 **Fun Fact:** Everything about me is boring lol... (but you'll still love it!)  
+- 💡 Currently learning **Swift**
+- ⚽ **Football = LOML** | Proud fan of **Real Madrid** and **Chelsea** 💙  
+- 🏓 Table Tennis and Cricket enthusiast
+- 🌟 **Fun Fact:** Everything about me is boring lol... (but you may still love it, who knows..)  
 
 ---
 
@@ -24,13 +24,13 @@
 - **LinkedIn:** [Swopnil Adhikari](https://www.linkedin.com/in/swopnil-adhikari-7ba464329/)
 - **Instagram:** [swopnil_v07](https://www.instagram.com/swopnil_v07)  
 - **Pronouns:** He/Him  
-- 🎯 Always open for a chat, collaboration (soon™), or just some good football banter.
+- 🎯 Always open for a chat, collaboration™, or just some good football banter.
 
 ---
 
 ## 📝 My Writing
 I occasionally dabble in writing. It’s one of my favorite ways to express myself.  
-> _“Writing is an exploration. You start from nothing and learn as you go.”_
+> _“We don’t read and write poetry because it’s cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for.”_ John Keating, Dead Poets Society
 
 ---
 
