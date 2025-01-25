@@ -29,7 +29,7 @@ And let’s be real—you already know what this is. It’s the classic “about
 
 ## 📝 Writing
 I occasionally dabble in writing. It’s one of my favorite ways to express myself.  
-> _“We don’t read and write poetry because it’s cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for.”_
+> _"We don’t read and write poetry because it’s cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for."_
 - *John Keating, Dead Poets Society*
 
 ---
