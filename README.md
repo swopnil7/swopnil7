@@ -49,7 +49,10 @@ Here’s a little something for my football passion!
 ## 🚀 Quick Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swopnil7&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=swopnil7&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swopnil7&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=swopnil7&theme=radical" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
