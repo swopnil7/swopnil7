@@ -49,6 +49,7 @@ Here’s a little something for my football passion!
 ## 🚀 Quick Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swopnil7&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+    <img src="https://ghchart.rshah.org/swopnil7" alt="GitHub Contribution Graph" width="48%" />
 </p>
 
 ---
