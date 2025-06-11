@@ -3,7 +3,6 @@ And this is the classic “about me” section. So, here’s everything you need
 
 ## About Me  
 - 💻 Passionate about **Programming**, **Graphic Designing**, and most importantly, just figuring out **Life**.    
-- 💡 Currently learning **Swift**
 - 🎮 A casual gamer because, well, life needs a bit of fun.
 - ⚽ **Football = LOML <3** | **Real Madrid**🤍 and **Chelsea**💙  
 - 🖖 Also quite good at 🏓Table Tennis, 🤾‍♀️Handball, 🏸Badminton, 🏏Cricket, etc.
