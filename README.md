@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Swopnil!
-And this is my classic “about me” section. So, here’s everything you need to know about me (or maybe not, but gonna tell anyway).
+And this is the classic “about me” section. So, here’s everything you need to know about me (or maybe not, but gonna tell anyway).
 
 ## About Me  
 - 💻 Passionate about **Programming**, **Graphic Designing**, and most importantly, just figuring out **Life**.    
