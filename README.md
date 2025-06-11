@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Swopnil!
-And let’s be real—you already know what this is. It’s the classic “about me” section. So, here’s everything you need to know about me (or maybe not, but I’m telling you anyway).
+And this is my classic “about me” section. So, here’s everything you need to know about me (or maybe not, but gonna tell anyway).
 
 ## About Me  
 - 💻 Passionate about **Programming**, **Graphic Designing**, and most importantly, just figuring out **Life**.    
 - 💡 Currently learning **Swift**
 - 🎮 A casual gamer because, well, life needs a bit of fun.
-- ⚽ **Football = LOML <3** | Proud fan of **Real Madrid**🤍 and **Chelsea**💙  
-- 🖖 Also love myself a bit of other sports, pretty good at 🏓Table Tennis, 🤾‍♀️Handball, 🏸Badminton, 🏏Cricket, etc.
-- 🖋️ Part-time writer (mostly because no one listens, so here we are 😅)
-- 🌟 **Fun Fact:** Everything about me is boring lol... (but you may still like it, who knows..)  
+- ⚽ **Football = LOML <3** | **Real Madrid**🤍 and **Chelsea**💙  
+- 🖖 Also quite good at 🏓Table Tennis, 🤾‍♀️Handball, 🏸Badminton, 🏏Cricket, etc.
+- 🖋️ Part-time writer (no one listens, so here we are)
+- 🌟 **Fun Fact:** No fun thing or for this matter 'fact' in my life lol  .
 
 ---
 
@@ -28,14 +28,13 @@ And let’s be real—you already know what this is. It’s the classic “about
 ---
 
 ## 📝 Writing
-I occasionally dabble in writing. It’s one of my favorite ways to express myself.  
+I occasionally dabble in writing when I am bored or get that extra 'motivation' yk..
 > _"We don’t read and write poetry because it’s cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for."_
 - *John Keating, Dead Poets Society*
-
+I love Dead Poets Society!!
 ---
 
-## ⚽ Fun Zone: For the Love of Football
-Here’s a little something for my football passion!  
+## ⚽ For the Love of Football:
 
 <div align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFtdDk1bWY3OTJjdzZjd2ltc3Y3b29tZWY2NmNvMDkxdjY0Y2gzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hUj3cpEdENGGxVVPHB/giphy.gif" width="400" height="250" />
