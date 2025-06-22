@@ -37,7 +37,3 @@ And this is the classic “about me” section. So, here’s everything you need
 ## 💬 Quote to Live By
 > _"Ask for forgiveness, not permission"_  
 – *Nancy, The Stranger Things*
-
----
-
-**Thanks for reading (or, let’s be honest, giving up halfway) the bio. Who even cares after all. Blah blah, you know the drill — see you around!**
