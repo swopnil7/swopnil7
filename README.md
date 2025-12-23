@@ -1,11 +1,8 @@
 # 👋 Hi, I’m Swopnil!
 ## About Me  
-- 💻 Passionate about **Programming**, **Graphic Designing**, and most importantly, just figuring out **Life**.    
-- 🎮 A casual gamer because, well, life needs a bit of fun.
-- ⚽ **Football = LOML <3** | **Real Madrid**🤍 and **Chelsea**💙  
-- 🖖 Also quite good at 🏓Table Tennis, 🤾‍♀️Handball, 🏸Badminton, 🏏Cricket, etc.
-- 🖋️ Part-time writer (no one listens, so here we are)
-- 🌟 **Fun Fact:** No fun thing or for this matter 'fact' in my life lol  .
+- 💻 **Programming**, **Graphic Designing**, and **Figuring Out Life**.    
+- 🎮 Casual gamer.
+- ⚽ **Football <3** | **Real Madrid**🤍 and **Chelsea**💙  
 
 ---
 
