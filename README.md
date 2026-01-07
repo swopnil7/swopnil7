@@ -24,7 +24,6 @@
 
 ## 🚀 Quick Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swopnil7&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=swopnil7&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" width="90%" />
 </p>
 
