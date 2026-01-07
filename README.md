@@ -17,6 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swopnil_Adhikari-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swopnil-adhikari-7ba464329/)  
 [![Instagram](https://img.shields.io/badge/Instagram-swopnil_v07-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/swopnil_v07)  
 [![Twitter](https://img.shields.io/badge/Twitter-@swopnil07-blue?style=for-the-badge&logo=twitter)](https://x.com/RmSwopnil07)  
+[![Reddit](https://img.shields.io/badge/Reddit-Swopnil007-orange?style=for-the-badge&logo=Reddit)](https://www.reddit.com/user/Swopnil007/)
 - 🎯 Always open for a chat, collaboration™, or just some good football banter.
 
 ---
